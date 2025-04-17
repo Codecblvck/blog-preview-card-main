@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](assets/images/blogCardResult.png)
+![](./assets/images/blog-card-result-screenshot.png)
 The result of my Blog card challenge
 ### Links
 
