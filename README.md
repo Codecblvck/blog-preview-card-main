@@ -50,7 +50,7 @@ By using **preload**, I made sure that the fonts would load as quickly as possib
 <link rel="preload" href="path/to/font.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 ```
 ### **2. HTML Structure and Accessibility**
-Throughout the project, I focused on **semantic HTML** to ensure my pages are not only SEO-friendly but also accessible to users with disabilities. By using semantic HTML tags like `<article>`, `<section>`, `<header>`, and `<footer>`, I made sure the structure of the page is easy to understand for both browsers and assistive technologies.
+Throughout the project, I focused on **semantic HTML** to ensure my pages are not only SEO-friendly but also accessible to users with disabilities. By using semantic HTML tags like, `<section>`, `<main>`, and `<footer>`, I made sure the structure of the page is easy to understand for both browsers and assistive technologies.
 
 Good accessibility practices also include:
 - Providing **meaningful alternative text** for images.
