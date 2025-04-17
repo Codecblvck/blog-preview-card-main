@@ -24,12 +24,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](/assets/images/blogCardResult.png)
+![](./assets/images/blogCardResult.png)
 The result of my Blog card challenge
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [My live site URL ](https://codecblvck.github.io/blog-preview-card-main/)
 
 ## My process
 
