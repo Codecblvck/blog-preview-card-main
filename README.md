@@ -57,18 +57,6 @@ Good accessibility practices also include:
 - Using a **logical heading structure** (`<h1>`, `<h2>`, etc.).
 - Structuring content in a clear, consistent way.
 
-**Code Example (Semantic HTML for Accessibility):**
-```html
-  <section>
-    <header>
-      <h2>HTML & CSS Foundations</h2>
-    </header>
-    <p class="post-excerpt">
-      These languages are the backbone of every website, defining structure, content, and presentation.
-    </p>
-  </section>
-```
-
 ## Author
 
 - Frontend Mentor - [@Codecblvck](https://www.frontendmentor.io/profile/Codecblvck)
