@@ -25,7 +25,8 @@ Users should be able to:
 ### Screenshot
 
 ![](./assets/images/blog-card-result-screenshot.png)
-The result of my Blog card challenge
+The result of my Blog card challenge.
+
 ### Links
 
 - Live Site URL: [My live site URL ](https://codecblvck.github.io/blog-preview-card-main/)
